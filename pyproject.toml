@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "phawkes"
-version = "0.1.0"
+version = "0.2.0"
 description = "Pure-Python multivariate Hawkes process simulation and MLE (exponential kernels), no C++ deps"
 readme = "README.md"
 license = { text = "MIT" }
